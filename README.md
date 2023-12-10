@@ -4,9 +4,9 @@ Learning-based robust tube-based MPC of nonlinear systems via difference of conv
 
 <br />
 <p align="center">
-   <img src="https://github.com/martindoff/Radial-basis-TMPC/blob/main/RBF.png" alt="Logo" width="400" height="400">
+   <img src="https://github.com/martindoff/Radial-basis-TMPC/blob/main/RBF.png" alt="Logo" width="400" height="300">
   <p align="center">
-   Difference-of-convex-functions (DC) decomposition of system dynamics by mean of radial basis functions approximations. 
+   Difference-of-convex-functions (DC) decomposition of system dynamics via radial basis functions (RBF) approximations. 
     <br />  
   </p>
 </p>
